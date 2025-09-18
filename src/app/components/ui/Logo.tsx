@@ -8,6 +8,7 @@ const AlKhaliqLogo = ({ className = "w-64 h-16" }) => (
       alt="AL-khaliq Logo"
       layout="fill"
       objectFit="contain"
+      unoptimized={true}
     />
   </div>
 );
