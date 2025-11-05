@@ -1,4 +1,5 @@
 import React from 'react';
+import Link from 'next/link';
 import AlKhaliqLogo from './ui/Logo';
 
 const Footer = () => {
@@ -23,8 +24,8 @@ const Footer = () => {
             <h3 className="text-lg font-semibold mb-4 text-purple-300">Company</h3>
             <ul className="space-y-2 text-purple-200">
               <li><a href="#" className="hover:text-white transition-colors">About</a></li>
-              <li><a href="#" className="hover:text-white transition-colors">Privacy</a></li>
-              <li><a href="#" className="hover:text-white transition-colors">Terms</a></li>
+              <li><Link href="/privacy" className="hover:text-white transition-colors">Privacy</Link></li>
+              <li><Link href="/terms" className="hover:text-white transition-colors">Terms</Link></li>
             </ul>
           </div>
           
