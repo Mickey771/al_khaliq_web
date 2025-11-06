@@ -89,11 +89,11 @@ const TermsOfService = () => {
                 In order to resolve a complaint regarding the Services or to receive further information regarding use of the Services, please contact us at:
             </p>
             <p className="mb-4 text-gray-700">
-                Company Name
-                <br />
+                 Micro Statik LLC
+                {/* <br />
                 Street Address
                 <br />
-                City, State, Zip
+                City, State, Zip */}
                 <br />
                 Country
             </p>
