@@ -200,7 +200,7 @@ const PrivacyPolicy = () => {
                 15. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
             </h2>
              <p className="mb-4 text-gray-700">
-                If you have questions or comments about this notice, you may email us at privacy@example.com or contact us by post at:
+                If you have questions or comments about this notice, you may email us at info@al_khaliq.com:
              </p>
              <p className="mb-4 text-gray-700">
                 Micro Statik LLC
